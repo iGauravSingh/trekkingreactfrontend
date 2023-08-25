@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div className=' h-[100vh] bg-coupl flex justify-center items-center'>
+    <div className=' bg-coupl flex justify-center items-center'>
         {/* image from tail wind config*/}
 
         <div className='flex flex-col items-center justify-around md:flex-row p-4 w-3/4 gap-8'>

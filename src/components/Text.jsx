@@ -56,7 +56,7 @@ const heroButtonOne ={
 const heroButtonTwo ={
     hidden: {
         opacity: 0,
-        x: 200,
+        x: 150,
     },
     show: {
         x: 0,
